@@ -1,0 +1,8 @@
+2021-01-30T03:20:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/forge/maurodeveloper.live/wp-includes/class-wp-image-editor.php on line 493
+
+2021-01-30T03:50:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/forge/maurodeveloper.live/wp-includes/class-wp-image-editor.php on line 493
+
+2021-01-30T03:54:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /home/forge/maurodeveloper.live/wp-includes/class-wp-image-editor-gd.php en la línea 196
+
+2021-01-30T03:54:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /home/forge/maurodeveloper.live/wp-includes/class-wp-image-editor-gd.php en la línea 196
+
